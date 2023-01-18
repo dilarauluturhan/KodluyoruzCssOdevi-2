@@ -1,0 +1,63 @@
+body {
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+td {
+    background-color: #EEE;
+}
+
+ul {
+    list-style-type: none;
+    
+}
+
+input {
+    margin: 3px;
+}
+
+.first-div {
+    width: 100%;
+    display: block;
+    margin-top: 8px;
+}
+
+.text-div {
+    width: 37%;
+    padding: 2px;
+    background: rgb(138, 201, 210);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: left;
+}
+
+.text-div-2 {
+    width: 37%;
+    padding: 2px;
+    background: rgb(138, 201, 210);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    float: right;
+    
+}
+
+.text-div-3 {
+    width: 25%;
+    padding: 2px;
+    background: rgb(138, 201, 210);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: right;
+    
+    
+}
+
+footer {
+    text-align: center;
+    margin: 10px;
+} 
